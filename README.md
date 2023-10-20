@@ -1,7 +1,7 @@
 # ComputerNetworks
 ## Resources for learning Computer Networks
 
-#ComputerNetworking Full Cource
+# ComputerNetworking Full Cource
 https://www.youtube.com/watch?v=IPvYjXCsTg8
 
 ### OSI model explained animated videos 
