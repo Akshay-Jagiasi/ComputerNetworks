@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=O7CuFlM4V54
 
 ### What is Ip Address, subneting
 https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&pp=iAQB
+
+### Computer Networks Animated Videos
+https://www.youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg
