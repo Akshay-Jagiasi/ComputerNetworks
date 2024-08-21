@@ -26,8 +26,8 @@ https://www.youtube.com/watch?v=qUBHLZEtS0M
 ##### _________________________________ 
 ### OSI Model Layers (Real-Life Scenarios)
 ###### Physical Layer (Layer 1):
-###### Scenario: Wires, cables, or Wi-Fi signals – like the roads cars drive on.
-###### Purpose: Deals with the actual transmission of raw data (bits) over a physical medium.
+ Scenario: Wires, cables, or Wi-Fi signals – like the roads cars drive on.
+ Purpose: Deals with the actual transmission of raw data (bits) over a physical medium.
 
 ###### Data Link Layer (Layer 2):
 ###### Scenario: Traffic lights and street signs – regulate traffic flow to avoid collisions on the roads.
