@@ -19,3 +19,6 @@ https://www.youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg
 
 ### What is Dark Web
 https://www.youtube.com/watch?v=TWyXGSjQUDg
+
+### Computer Networks In One Video
+https://www.youtube.com/watch?v=qUBHLZEtS0M
